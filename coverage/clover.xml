@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1690359299818" clover="3.2.0">
+  <project timestamp="1690359299818" name="All files">
+    <metrics statements="9" coveredstatements="9" conditionals="6" coveredconditionals="6" methods="2" coveredmethods="2" elements="17" coveredelements="17" complexity="0" loc="9" ncloc="9" packages="1" files="2" classes="2"/>
+    <file name="stringLength.js" path="C:\Users\THIERRY\awesome-project\testing-test\stringLength.js">
+      <metrics statements="7" coveredstatements="7" conditionals="6" coveredconditionals="6" methods="1" coveredmethods="1"/>
+      <line num="3" count="4" type="cond" truecount="2" falsecount="0"/>
+      <line num="4" count="1" type="stmt"/>
+      <line num="7" count="3" type="stmt"/>
+      <line num="9" count="3" type="cond" truecount="4" falsecount="0"/>
+      <line num="10" count="2" type="stmt"/>
+      <line num="13" count="1" type="stmt"/>
+      <line num="16" count="1" type="stmt"/>
+    </file>
+    <file name="sum.js" path="C:\Users\THIERRY\awesome-project\testing-test\sum.js">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="4" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
